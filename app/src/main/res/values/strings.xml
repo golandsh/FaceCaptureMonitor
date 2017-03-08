@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FaceCaptureMonitor</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">שם משתמש</string>
+    <string name="prompt_password">סיסמא</string>
+    <string name="action_sign_in">הרשמה</string>
+    <string name="action_sign_in_short">הרשמה</string>
+    <string name="error_invalid_email">שם משתמש שגוי</string>
+    <string name="error_invalid_password">הסיסמא קצרה מדי</string>
+    <string name="error_incorrect_password">שם משתמש או סיסמא שגויים</string>
+    <string name="error_field_required">שדה חובה</string>
+    <string name="permission_rationale">"שלומי גולנד המלך"</string>
+    <string name="application_title">כניסה</string>
+    <string name="hello_guest">שלום</string>
+    <string name="enter_action">בצע כניסה</string>
+    <string name="exit_action">בצע יציאה</string>
+</resources>
